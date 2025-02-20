@@ -18,7 +18,7 @@ The Fysetc kit does not come with a Raspberry Pi, so you will need one of those.
 
 While I have not yet found the modified printed parts (or created my own), I do want to add a touch screen like on my Vorons, so I ordered a [BTT TFT4.3](https://www.amazon.com/dp/B09791ZG1B?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_1&th=1).  Hopefully I will figure out a good way to mount that before I finish my build.
 
-I choose [Ambrosia Matte ABS](https://west3d.com/products/ambrosia-abs-matte-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament) in Black and British Racing Green.  I used about 2kg of each color, mainly due to some issues with the printer I was printing them on having a few issues and having to restart many prints.
+For the filament for the printed parts, I choose [Ambrosia Matte ABS](https://west3d.com/products/ambrosia-abs-matte-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament) in Black and British Racing Green.  I used about 2kg of each color, mainly due to some issues with the printer I was printing them on having a few issues and having to restart many prints.
 
 ## The build
 
