@@ -5,3 +5,5 @@
 
 
 ## Extra items purchased
+
+[M3 Heat Set Inserts](https://www.fabreeko.com/products/threaded-heat-inserts-m3x5x4-100pc-per-bag?_pos=1&_sid=2af54977d&_ss=r) Voron spec heat set inserts
