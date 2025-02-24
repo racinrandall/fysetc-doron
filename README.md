@@ -34,4 +34,3 @@ During installation of the motors, you could easily allow the limit switch wirin
 
 ![Motor](images/motor.png)
 
-![Limit Switch wire close up](images/motor-close.png)
