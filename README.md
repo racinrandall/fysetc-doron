@@ -27,3 +27,5 @@ As I started installing the heat set inserts, I noticed the Effector is differen
 The video only shows placing heat set inserts in two of the skirts, however all skirts had places for heat set inserts.  There were not enough 3mm heat set inserts to put them in all of the skirts.  The Effector and the printed part for Klicky use 2mm heat set inserts and there appears to be more than enough of those.
 
 Speaking of the heat set inserts, I didn't notice a heat set insert tool in the kit.  The [printed part](https://github.com/FYSETC/FYSETC-Doron_Velta/blob/main/STLs/Extrude%20the%20head/printed_part.STL) for Klicky wasn't in the Fabreeko STLs, but was in the [Fysetc github](https://github.com/FYSETC/FYSETC-Doron_Velta/tree/main), so I printed that as well.
+
+At approximately 20 minutes into the video, they show placing the pulleys on the stepper motors.  I highly recommend using some blue Locktite on the set screws to prevent them from working loose.  This is mentioned in build guides for Voron printers, and also mentions they are the source of a lot of problems, so go ahead and use some Locktite, and you shouldn't have to worry about motor pulleys coming loose.
