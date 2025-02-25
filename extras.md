@@ -23,3 +23,7 @@ Below you will find all of the items I purchased for this build.  Some of the it
 [active cooler](https://www.pishop.us/product/raspberry-pi-active-cooler/) Keep that pi cool
 
 [Ambrosia Matte ABS](https://west3d.com/products/ambrosia-abs-matte-filament-of-the-gods-1kg-bambu-ams-friendly-cardboard-spools-premium-3d-printing-filament) in Black and British Racing Green
+
+[Ground wire for bed](https://www.amazon.com/gp/product/B098NJT22C?smid=A28DZI5I4PJFY4&th=1)
+
+[Connector Set](https://www.amazon.com/dp/B07S33YTKY?psc=1&smid=ANYK2SEFS0EGZ&ref_=chk_typ_imgToDp) These were used to connect ground wire to bed and ground of input power
