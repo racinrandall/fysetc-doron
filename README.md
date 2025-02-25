@@ -28,9 +28,14 @@ The video only shows placing heat set inserts in two of the skirts, however all 
 
 Speaking of the heat set inserts, I didn't notice a heat set insert tool in the kit.  The [printed part](https://github.com/FYSETC/FYSETC-Doron_Velta/blob/main/STLs/Extrude%20the%20head/printed_part.STL) for Klicky wasn't in the Fabreeko STLs, but was in the [Fysetc github](https://github.com/FYSETC/FYSETC-Doron_Velta/tree/main), so I printed that as well.
 
-At approximately 20 minutes into the video, they show placing the pulleys on the stepper motors.  I highly recommend using some blue Locktite on the set screws to prevent them from working loose.  This is mentioned in build guides for Voron printers, and also mentions they are the source of a lot of problems, so go ahead and use some Locktite, and you shouldn't have to worry about motor pulleys coming loose.  Also ensure that one of the two set screws per pulley is located on the flat spot of the motor shaft.
+At approximately 20 minutes into the video, they show placing the pulleys on the stepper motors.  I highly recommend using some blue Loctite on the set screws to prevent them from working loose.  This is mentioned in build guides for Voron printers, and also mentions they are the source of a lot of problems, so go ahead and use some Loctite, and you shouldn't have to worry about motor pulleys coming loose.  Also ensure that one of the two set screws per pulley is located on the flat spot of the motor shaft.
 
 During installation of the motors, you could easily allow the limit switch wiring to go between the top panel and the motor.  If you do this, there is a risk it will interfere with the belt once installed.  There appears to be just enough clearance to run the wire between the motor mount and the corner printed part.
 
 ![Motor](images/motor.png)
 
+So as you get more to the wiring, there appears to be a lot left out of the video I followed.  The kit does include a thermal fuse for the bed, but that is never shown in the video.  Simply bolt the fuse to one of the open threaded holes on the bottom of the bed, and connect the wired.
+
+![Thermal Fuse](images/thermal_fuse.png)
+
+The one thing I noticed that is missing from this kit, is there is no ground wire to the heat bed.  This is recommended when using an AC powered bed heater.
